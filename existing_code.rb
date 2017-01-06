@@ -4,4 +4,4 @@ I've added more code here.
 
 This is a third line.
 
-This is a conflicting line.
+This adds my new feature
